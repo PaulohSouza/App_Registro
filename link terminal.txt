@@ -1,0 +1,1 @@
+Rscript.exe -e "shiny::runApp('C:/Users/paulosouza/Documents/GIT/FMT/Privado/FMT_SCIENCE3', launch.browser = TRUE)
